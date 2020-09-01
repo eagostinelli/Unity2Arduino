@@ -7,7 +7,7 @@ In this repository I will collect the script for:
 1. **Arudino**: the user could easily use this code to implement the traffic light code. 
 2. **Unity**: I have put the Unity project to facilitate following the tutorial. It includes the traffic light and all the scripts already attached to the objects. 
 
-Blog with instructions: coming soon
+Blog with instructions: <a href="https://www.erikaagostinelli.com/post/using-unity-to-control-arduino">Using Unity to control Arduino</a>
 
-Author: <a href="https://www.linkedin.com/in/erikaagostinelli/"> Erika Agostinelli </a>
+Author: <a href="https://www.linkedin.com/in/erikaagostinelli/">Erika Agostinelli </a>
 
